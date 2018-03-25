@@ -1,5 +1,14 @@
 项目名：炒米指南，git 仓库地址：https://github.com/zhaotoday/domain-howto 。
 
+## 交易及行情网站
+- [易名网](https://www.ename.com)
+- [阿里云万网](https://wanwang.aliyun.com)
+- [1618](https://1618.com)
+- [爱名网](https://www.22.cn)
+- [西部数码](https://www.west.cn)
+- [金名网](https://www.4.cn)
+- [笨米网](https://www.benmi.com)
+
 ## 经验总结
 
 ### 1. 哪些后缀值得投资
